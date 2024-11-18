@@ -8,4 +8,4 @@ function evenOdd (x) {
     return x;
 }
 
-const result = evenOdd(5);
+const result = evenOdd(10);
