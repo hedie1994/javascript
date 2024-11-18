@@ -6,6 +6,7 @@ function validateFunction () {
 
     if (validName && validEmail) {
         alert('دریافت اطلاعات با موفقیت انجام شد');
+        alert('دریافت اطلاعات با موفقیت انجام شد');
     }
     else {
         if (!validName) {
